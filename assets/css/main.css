@@ -3783,3 +3783,10 @@ input, select, textarea {
 			}
 
 		}
+
+		.project {
+			vertical-align: middle;
+			width: 12.25em;
+			height: 10.25em;
+  			/* border-radius: 50%; */
+		}
