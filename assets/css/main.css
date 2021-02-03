@@ -3802,11 +3802,15 @@ input, select, textarea {
     cursor: default;
 		} */
 
-	.resume-li {
+	.list {
 		list-style-type: none;
 		text-align: center;
 	}
 
-	.resume-li li {
+	.list li {
 		padding: 5px;
+	}
+
+	.social li:hover {
+		opacity: 50%;
 	}
