@@ -3788,5 +3788,25 @@ input, select, textarea {
 			vertical-align: middle;
 			width: 12.25em;
 			height: 10.25em;
-  			/* border-radius: 50%; */
+			box-shadow: 0 0 3px #ddd;
+			border-radius: 50%;
+			box-shadow: 2px 3px 8px 2px #888888;
 		}
+
+		/* .imgbox {
+			border: solid 1px;
+    display: inline-block;
+    border-radius: 50%;
+    padding: 0.65em;
+    margin: 0 0 2em 0;
+    cursor: default;
+		} */
+
+	.resume-li {
+		list-style-type: none;
+		text-align: center;
+	}
+
+	.resume-li li {
+		padding: 5px;
+	}
